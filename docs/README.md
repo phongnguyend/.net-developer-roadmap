@@ -22,6 +22,7 @@
 - [Performance Improvements in .NET 7](https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/)
 - [Performance Improvements in .NET 8](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/)
 - [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
+- [Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)
 
 ## Deep Dive .NET
 - [Writing async/await from scratch in C# with Stephen Toub - YouTube](https://www.youtube.com/watch?v=R-z2Hv-7nxk)
@@ -33,6 +34,7 @@
 - [Deep .NET: Let's Talk Parallel Programming with Stephen Toub and Scott Hanselman - YouTube](https://www.youtube.com/watch?v=18w4QOWGJso)
 - [Deep .NET - Ahead of Time Compilation (Native AOT) with Eric Erhardt - YouTube](https://www.youtube.com/watch?v=N-MrQeZ1enY)
 - [Deep .NET - Using AI Python Libraries in .NET Apps with CSnakes - YouTube](https://www.youtube.com/watch?v=DqoxHNH9Iwo)
+- [Cancellation Tokens with Stephen Toub - YouTube](https://www.youtube.com/watch?v=h1GvSPaRQ-U)
 
 ## What's new in the .NET Framework
 | Version  | Support Policy | Support Ended Date |
