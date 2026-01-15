@@ -1,0 +1,9 @@
+CheckNugetPackages ./
+
+dotnet tool install --global CheckNugetPackages.DotNetCliTool --version 2.2.0
+
+dotnet tool uninstall --global CheckNugetPackages.DotNetCliTool
+
+dnx CheckNugetPackages.DotNetCliTool ./
+
+https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/sdk#the-new-dnx-tool-execution-script
