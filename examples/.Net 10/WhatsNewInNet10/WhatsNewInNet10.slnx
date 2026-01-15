@@ -1,0 +1,31 @@
+<Solution>
+  <Folder Name="/1. New In Libraries/">
+    <Project Path="AllowDuplicateJsonProperties/AllowDuplicateJsonProperties.csproj" Id="896b31c5-1a15-413f-b207-9f68c6ab1888" />
+    <Project Path="AsyncZip/AsyncZip.csproj" />
+    <Project Path="NumericOrderingStringComparison/NumericOrderingStringComparison.csproj" />
+  </Folder>
+  <Folder Name="/2. New In SDK &amp; Tooling/">
+    <File Path="App.cs" />
+    <File Path="One-shot tool execution.txt" />
+  </Folder>
+  <Folder Name="/3. C# 14/">
+    <Project Path="ExtensionMembers/ExtensionMembers.csproj" Id="919ef0e5-2542-4ab8-b0f0-30f3f1690482" />
+    <Project Path="FieldKeyword/FieldKeyword.csproj" Id="8b8f428b-e581-455a-8975-25face051569" />
+    <Project Path="NullConditionalAssignment/NullConditionalAssignment.csproj" Id="2a6fdfae-4561-4d7d-a22c-36860b6629ca" />
+  </Folder>
+  <Folder Name="/4. Asp.Net Core 10/">
+    <Project Path="BlazorWebAppPasskeys/BlazorWebAppPasskeys.csproj" Id="93f4b079-e028-4aa2-a1dc-3cd8a94e56a0" />
+    <Project Path="JsonPatch/JsonPatch.csproj" Id="dc6aa27e-18c8-4711-8d49-f50fa37c1ad6" />
+    <Project Path="OpenAPI/OpenAPI.csproj" Id="91538ad8-0f23-4583-aca6-7c3823a4c5cd" />
+    <Project Path="ServerSentEvents/ServerSentEvents.csproj" />
+    <Project Path="ValidationInMinimalAPIs/ValidationInMinimalAPIs.csproj" Id="dbdb7244-337d-4a04-8984-1ea6b42a95a5" />
+  </Folder>
+  <Folder Name="/5. New In EF Core 10/">
+    <Project Path="ExecuteUpdateJsonColumns/ExecuteUpdateJsonColumns.csproj" Id="7d5ea240-4a56-452e-86f3-79218fb24be7" />
+    <Project Path="LeftJoinRightJoinOperators/LeftJoinRightJoinOperators.csproj" Id="0c1d0bbd-8908-4594-aa11-c70325bccab4" />
+    <Project Path="NamedQueryFilters/NamedQueryFilters.csproj" Id="96d26c25-54de-4ff1-bb13-79ce1c588418" />
+    <Project Path="ParameterizedCollectionTranslation/ParameterizedCollectionTranslation.csproj" Id="569a73c3-fc12-4447-b99f-2dcdd375333f" />
+    <Project Path="SqlServerJsonType/SqlServerJsonType.csproj" Id="4228137e-36e7-4a3b-b822-b0843450e7bd" />
+    <Project Path="SqlServerVectorSearch/SqlServerVectorSearch.csproj" Id="0124075f-7909-4adf-91d1-6a1b63af08dc" />
+  </Folder>
+</Solution>

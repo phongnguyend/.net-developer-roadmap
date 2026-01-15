@@ -1,0 +1,16 @@
+@ValidationInMinimalAPIs_HostAddress = http://localhost:5116
+
+POST {{ValidationInMinimalAPIs_HostAddress}}/api/persons/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "firstName": "",
+  "lastName": "Doe"
+}
+
+###
+
+````````
+
+# Response
