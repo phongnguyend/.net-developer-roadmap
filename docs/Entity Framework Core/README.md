@@ -1,6 +1,7 @@
 ## [EF Core | Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/)
 
 ## What's new in EF Core
+- [EF Core 11.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-11.0/whatsnew)
 - [EF Core 10.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-10.0/whatsnew)
 - [EF Core 9.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-9.0/whatsnew)
 - [EF Core 8.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-8.0/whatsnew)
