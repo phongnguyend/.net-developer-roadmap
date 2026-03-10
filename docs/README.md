@@ -1,6 +1,7 @@
 ## What's new in .NET Core
 | Version  | Support Policy | Support Ended Date |
 | -------- | -------------- | ------------------ |
+| [.NET 11](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/overview) | STS |  |
 | [.NET 10](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/overview) | LTS | November 14, 2028 |
 | [.NET 9](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-9/overview) | STS | November 10, 2026 |
 | [.NET 8](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8) | LTS | November 10, 2026 |
