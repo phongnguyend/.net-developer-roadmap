@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introduction", "Introduction\Introduction.csproj", "{A22005E7-F40D-480A-A9C1-C17797D9047B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeBlocksAndStatements", "CodeBlocksAndStatements\CodeBlocksAndStatements.csproj", "{610B606C-ADB4-4F99-8A5B-BF6D358C9BCD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic Operators", "Basic Operators", "{619107DC-96B0-42E7-8CB1-216276FBB5D5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 Basic Operators", "2.1 Basic Operators", "{619107DC-96B0-42E7-8CB1-216276FBB5D5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArithmeticOperators", "ArithmeticOperators\ArithmeticOperators.csproj", "{0AF13A6C-2FF8-4BBD-B09C-D8F40BC4B4E0}"
 EndProject
@@ -19,15 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicalOperators", "Logical
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringConcatenation", "StringConcatenation\StringConcatenation.csproj", "{3256FEDA-1D76-4803-AD97-DF1FEAAD296D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Flow of Execution", "Flow of Execution", "{7E811035-D861-4D46-B9DC-FB799830D483}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Flow of Execution", "3. Flow of Execution", "{7E811035-D861-4D46-B9DC-FB799830D483}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic Syntax", "Basic Syntax", "{2FF1E1E5-66CA-45FA-95E6-E7C6E1CB1F22}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 Basic Syntax", "2.1 Basic Syntax", "{2FF1E1E5-66CA-45FA-95E6-E7C6E1CB1F22}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LINQ", "LINQ", "{0D9C77BB-A4EC-4D81-98A3-8B7B97E5CF7B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. LINQ", "6. LINQ", "{0D9C77BB-A4EC-4D81-98A3-8B7B97E5CF7B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP", "OOP", "{E0EE35E8-6E09-48F4-9823-E97B29CFC544}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. OOP", "5. OOP", "{E0EE35E8-6E09-48F4-9823-E97B29CFC544}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Async", "Async", "{3FEFC133-BCE5-4D6B-B643-7AF770E158D6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Async", "7. Async", "{3FEFC133-BCE5-4D6B-B643-7AF770E158D6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Branching", "Branching\Branching.csproj", "{2FB9777E-D815-42D3-8EB1-8FEA26D302EB}"
 EndProject
@@ -41,7 +41,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Returning", "Returning\Retu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErrorHandling", "ErrorHandling\ErrorHandling.csproj", "{A44BA1E4-12BB-40BB-82E9-AC34E0DBD749}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes, Objects, Types", "Classes, Objects, Types", "{739B07A5-23F8-4BAF-9A44-D4BC1DD7D0AA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Classes, Objects, Types", "4. Classes, Objects, Types", "{739B07A5-23F8-4BAF-9A44-D4BC1DD7D0AA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesAndObjects", "ClassesAndObjects\ClassesAndObjects.csproj", "{F2E785FA-7B9D-40F4-B661-F33FC7D203C6}"
 EndProject
@@ -106,6 +106,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingParameters", "PassingParameters\PassingParameters.csproj", "{A939D046-4202-4ECA-BBFC-8901F9291E83}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicConceptsOfOOP", "BasicConceptsOfOOP\BasicConceptsOfOOP.csproj", "{E903C235-B58E-4930-B647-9C7C12C8F4A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Introduction", "1. Introduction", "{8C09383F-5A26-4D35-BBF4-99FDBCB44BA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -290,6 +292,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{A22005E7-F40D-480A-A9C1-C17797D9047B} = {8C09383F-5A26-4D35-BBF4-99FDBCB44BA4}
 		{610B606C-ADB4-4F99-8A5B-BF6D358C9BCD} = {2FF1E1E5-66CA-45FA-95E6-E7C6E1CB1F22}
 		{0AF13A6C-2FF8-4BBD-B09C-D8F40BC4B4E0} = {619107DC-96B0-42E7-8CB1-216276FBB5D5}
 		{BDE73EF3-39C8-435B-9955-91CFBF79DC94} = {619107DC-96B0-42E7-8CB1-216276FBB5D5}
